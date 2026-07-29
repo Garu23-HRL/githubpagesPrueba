@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 142,
+    "left": 0,
+    "width": 747,
+    "height": 996,
+    "isRotated": false,
+    "originalWidth": 747,
+    "originalHeight": 1280
+  },
+  "imagePath": "image-targets/fondo_base_luminance.jpg",
+  "metadata": null,
+  "name": "fondo_base",
+  "resources": {
+    "originalImage": "fondo_base_original.jpg",
+    "croppedImage": "fondo_base_cropped.jpg",
+    "thumbnailImage": "fondo_base_thumbnail.jpg",
+    "luminanceImage": "fondo_base_luminance.jpg"
+  },
+  "created": 1785265990097,
+  "updated": 1785265990097
+}

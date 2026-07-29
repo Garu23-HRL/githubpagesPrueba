@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 655,
+    "left": 0,
+    "width": 940,
+    "height": 1253,
+    "isRotated": false,
+    "originalWidth": 940,
+    "originalHeight": 2565
+  },
+  "imagePath": "image-targets/galletas_doris_luminance.jpg",
+  "metadata": null,
+  "name": "galletas_doris",
+  "resources": {
+    "originalImage": "galletas_doris_original.jpg",
+    "croppedImage": "galletas_doris_cropped.jpg",
+    "thumbnailImage": "galletas_doris_thumbnail.jpg",
+    "luminanceImage": "galletas_doris_luminance.jpg"
+  },
+  "created": 1785266864938,
+  "updated": 1785266864938
+}
