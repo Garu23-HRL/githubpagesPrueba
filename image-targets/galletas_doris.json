@@ -1,7 +1,7 @@
 {
   "type": "PLANAR",
   "properties": {
-    "top": 655,
+    "top": 65,
     "left": 0,
     "width": 940,
     "height": 1253,
@@ -19,5 +19,5 @@
     "luminanceImage": "galletas_doris_luminance.jpg"
   },
   "created": 1785266864938,
-  "updated": 1785266864938
+  "updated": 1785353211939
 }

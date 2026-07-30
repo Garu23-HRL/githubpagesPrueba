@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 46,
+    "left": 0,
+    "width": 1704,
+    "height": 2272,
+    "isRotated": true,
+    "originalWidth": 1704,
+    "originalHeight": 2364
+  },
+  "imagePath": "image-targets/imagenChizito-2_luminance.jpg",
+  "metadata": null,
+  "name": "imagenChizito-2",
+  "resources": {
+    "originalImage": "imagenChizito-2_original.jpg",
+    "croppedImage": "imagenChizito-2_cropped.jpg",
+    "thumbnailImage": "imagenChizito-2_thumbnail.jpg",
+    "luminanceImage": "imagenChizito-2_luminance.jpg"
+  },
+  "created": 1785428243549,
+  "updated": 1785428243549
+}

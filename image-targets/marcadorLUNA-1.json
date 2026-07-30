@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 57,
+    "width": 740,
+    "height": 987,
+    "isRotated": false,
+    "originalWidth": 856,
+    "originalHeight": 987
+  },
+  "imagePath": "image-targets/marcadorLUNA-1_luminance.png",
+  "metadata": null,
+  "name": "marcadorLUNA-1",
+  "resources": {
+    "originalImage": "marcadorLUNA-1_original.png",
+    "croppedImage": "marcadorLUNA-1_cropped.png",
+    "thumbnailImage": "marcadorLUNA-1_thumbnail.png",
+    "luminanceImage": "marcadorLUNA-1_luminance.png"
+  },
+  "created": 1785426837849,
+  "updated": 1785426837849
+}
