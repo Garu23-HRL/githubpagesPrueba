@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 51,
+    "width": 678,
+    "height": 905,
+    "isRotated": true,
+    "originalWidth": 782,
+    "originalHeight": 905
+  },
+  "imagePath": "image-targets/marcadorMercurio_luminance.png",
+  "metadata": null,
+  "name": "marcadorMercurio",
+  "resources": {
+    "originalImage": "marcadorMercurio_original.png",
+    "croppedImage": "marcadorMercurio_cropped.png",
+    "thumbnailImage": "marcadorMercurio_thumbnail.png",
+    "luminanceImage": "marcadorMercurio_luminance.png"
+  },
+  "created": 1785786650825,
+  "updated": 1785786650825
+}

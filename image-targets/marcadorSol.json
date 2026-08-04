@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 79,
+    "width": 556,
+    "height": 742,
+    "isRotated": false,
+    "originalWidth": 716,
+    "originalHeight": 742
+  },
+  "imagePath": "image-targets/marcadorSol_luminance.png",
+  "metadata": null,
+  "name": "marcadorSol",
+  "resources": {
+    "originalImage": "marcadorSol_original.png",
+    "croppedImage": "marcadorSol_cropped.png",
+    "thumbnailImage": "marcadorSol_thumbnail.png",
+    "luminanceImage": "marcadorSol_luminance.png"
+  },
+  "created": 1785784424627,
+  "updated": 1785784424627
+}

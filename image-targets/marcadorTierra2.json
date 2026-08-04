@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 36,
+    "width": 678,
+    "height": 905,
+    "isRotated": true,
+    "originalWidth": 752,
+    "originalHeight": 905
+  },
+  "imagePath": "image-targets/marcadorTierra2_luminance.png",
+  "metadata": null,
+  "name": "marcadorTierra2",
+  "resources": {
+    "originalImage": "marcadorTierra2_original.png",
+    "croppedImage": "marcadorTierra2_cropped.png",
+    "thumbnailImage": "marcadorTierra2_thumbnail.png",
+    "luminanceImage": "marcadorTierra2_luminance.png"
+  },
+  "created": 1785768571889,
+  "updated": 1785768586887
+}
