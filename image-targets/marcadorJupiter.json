@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 72,
+    "width": 675,
+    "height": 901,
+    "isRotated": false,
+    "originalWidth": 820,
+    "originalHeight": 901
+  },
+  "imagePath": "image-targets/marcadorJupiter_luminance.png",
+  "metadata": null,
+  "name": "marcadorJupiter",
+  "resources": {
+    "originalImage": "marcadorJupiter_original.png",
+    "croppedImage": "marcadorJupiter_cropped.png",
+    "thumbnailImage": "marcadorJupiter_thumbnail.png",
+    "luminanceImage": "marcadorJupiter_luminance.png"
+  },
+  "created": 1785856642814,
+  "updated": 1785856642814
+}

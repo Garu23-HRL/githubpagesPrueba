@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 15,
+    "width": 677,
+    "height": 902,
+    "isRotated": false,
+    "originalWidth": 771,
+    "originalHeight": 902
+  },
+  "imagePath": "image-targets/marcadorVenus_luminance.png",
+  "metadata": null,
+  "name": "marcadorVenus",
+  "resources": {
+    "originalImage": "marcadorVenus_original.png",
+    "croppedImage": "marcadorVenus_cropped.png",
+    "thumbnailImage": "marcadorVenus_thumbnail.png",
+    "luminanceImage": "marcadorVenus_luminance.png"
+  },
+  "created": 1785851446217,
+  "updated": 1785851457595
+}

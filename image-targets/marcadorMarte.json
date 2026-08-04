@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 72,
+    "width": 669,
+    "height": 892,
+    "isRotated": true,
+    "originalWidth": 817,
+    "originalHeight": 892
+  },
+  "imagePath": "image-targets/marcadorMarte_luminance.png",
+  "metadata": null,
+  "name": "marcadorMarte",
+  "resources": {
+    "originalImage": "marcadorMarte_original.png",
+    "croppedImage": "marcadorMarte_cropped.png",
+    "thumbnailImage": "marcadorMarte_thumbnail.png",
+    "luminanceImage": "marcadorMarte_luminance.png"
+  },
+  "created": 1785855278958,
+  "updated": 1785855298134
+}

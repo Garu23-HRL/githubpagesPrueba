@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 88,
+    "width": 672,
+    "height": 897,
+    "isRotated": false,
+    "originalWidth": 850,
+    "originalHeight": 897
+  },
+  "imagePath": "image-targets/marcadorUrano_luminance.png",
+  "metadata": null,
+  "name": "marcadorUrano",
+  "resources": {
+    "originalImage": "marcadorUrano_original.png",
+    "croppedImage": "marcadorUrano_cropped.png",
+    "thumbnailImage": "marcadorUrano_thumbnail.png",
+    "luminanceImage": "marcadorUrano_luminance.png"
+  },
+  "created": 1785862083624,
+  "updated": 1785862083624
+}

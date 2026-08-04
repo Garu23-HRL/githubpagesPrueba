@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 87,
+    "width": 675,
+    "height": 900,
+    "isRotated": false,
+    "originalWidth": 850,
+    "originalHeight": 900
+  },
+  "imagePath": "image-targets/marcadorNeptuno_luminance.png",
+  "metadata": null,
+  "name": "marcadorNeptuno",
+  "resources": {
+    "originalImage": "marcadorNeptuno_original.png",
+    "croppedImage": "marcadorNeptuno_cropped.png",
+    "thumbnailImage": "marcadorNeptuno_thumbnail.png",
+    "luminanceImage": "marcadorNeptuno_luminance.png"
+  },
+  "created": 1785863006650,
+  "updated": 1785863006650
+}

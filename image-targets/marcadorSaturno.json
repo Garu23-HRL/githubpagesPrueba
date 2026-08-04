@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 139,
+    "width": 680,
+    "height": 907,
+    "isRotated": false,
+    "originalWidth": 866,
+    "originalHeight": 907
+  },
+  "imagePath": "image-targets/marcadorSaturno_luminance.png",
+  "metadata": null,
+  "name": "marcadorSaturno",
+  "resources": {
+    "originalImage": "marcadorSaturno_original.png",
+    "croppedImage": "marcadorSaturno_cropped.png",
+    "thumbnailImage": "marcadorSaturno_thumbnail.png",
+    "luminanceImage": "marcadorSaturno_luminance.png"
+  },
+  "created": 1785859911167,
+  "updated": 1785859919082
+}
